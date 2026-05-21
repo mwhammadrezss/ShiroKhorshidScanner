@@ -28,9 +28,9 @@ A smart multi-stage CDN IP scanner built for the CDN Fronting feature of Shir Kh
 ```bash
 pkg update && pkg upgrade -y
 pkg install python git -y
-git clone https://github.com/YOUR_USERNAME/shirkhorshid-scanner.git
-cd shirkhorshid-scanner
-python scanner.py
+git clone https://github.com/mwhammadrezss/ShiroKhorshidScanner.git
+cd ShiroKhorshidScanner
+python MidONeScanner.py
 ```
 
 ---
@@ -38,9 +38,9 @@ python scanner.py
 ## 💻 Windows
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/shirkhorshid-scanner.git
-cd shirkhorshid-scanner
-python scanner.py
+git clone https://github.com/mwhammadrezss/ShiroKhorshidScanner.git
+cd ShiroKhorshidScanner
+python MidONeScanner.py
 ```
 
 ---
